@@ -1,0 +1,2 @@
+# simple-feed-reader
+The app used in this guide is a pre-built ASP.NET Core app, Simple Feed Reader. It’s a Razor Pages app that uses the Microsoft.SyndicationFeed.ReaderWriter API to retrieve an RSS/Atom feed and display the news items in a list. Feel free to review the code, but it’s important to understand that there’s nothing special about this app. It’s just a simple ASP.NET Core app for illustrative purposes.
